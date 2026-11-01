@@ -21,7 +21,8 @@ More details are in the Report.
 
 ## System Flow
 
-![System flow](Result/system_flow.png)
+<img width="802" height="967" alt="sys_flow" src="https://github.com/user-attachments/assets/aa4cc6bf-6c21-4c71-b416-351082b5a66a" />
+
 
 Data goes through the parity generator, then the channel, then the parity checker. `error_flag = 0` means OK, `error_flag = 1` means error.
 
