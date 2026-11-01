@@ -31,13 +31,12 @@ Data goes through the parity generator, then the channel, then the parity checke
 
 ### High-level
 
-![High-level diagram](<img width="1009" height="1012" alt="image" src="https://github.com/user-attachments/assets/253a2938-079f-4380-a244-652abde02aed" />
+![High-level diagram](<img width="1009" height="1012" alt="high_level" src="https://github.com/user-attachments/assets/1c814ab7-16ef-4e26-979f-d69b023f33c1" />
 )
 
 ### Low-level
 
-![Low-level diagram](<img width="1606" height="913" alt="image" src="https://github.com/user-attachments/assets/5bb31ae6-502e-4ec2-925c-2c7ed0fae043" />
-)
+![Low-level diagram]()
 
 | Module | Function |
 |---|---|
