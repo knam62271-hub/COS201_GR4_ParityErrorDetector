@@ -31,8 +31,8 @@ Data goes through the parity generator, then the channel, then the parity checke
 
 ### High-level
 
-![High-level diagram](<img width="1009" height="1012" alt="high_level" src="https://github.com/user-attachments/assets/1c814ab7-16ef-4e26-979f-d69b023f33c1" />
-)
+![High-level diagram]()
+<img width="1009" height="1012" alt="high_level" src="https://github.com/user-attachments/assets/2db07e09-61cc-4817-a97a-508ae2c485fd" />
 
 ### Low-level
 
