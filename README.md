@@ -112,25 +112,6 @@ COS201_ParityErrorDetector/
 
 ---
 
-## Progress
-
-| Work | Status |
-|---|---|
-| RTL modules | TODO |
-| Module testbenches | TODO |
-| Top-level testbench | TODO |
-| Golden model comparison | TODO |
-| Report | TODO |
-
----
-
 ## References
 
 See [Parity_Error_Detector_References.md](Parity_Error_Detector_References.md).
-
----
-
-## Author
-
-**<Your Name>**  
-FPT University – COS201
