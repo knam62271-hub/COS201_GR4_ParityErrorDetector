@@ -39,8 +39,6 @@ Data goes through the parity generator, then the channel, then the parity checke
 <img width="1606" height="913" alt="low_level" src="https://github.com/user-attachments/assets/225c3f34-68a3-4244-9702-e3f95df91af3" />
 
 
-![Low-level diagram]()
-
 | Module | Function |
 |---|---|
 | `parity_generator` | Makes the even parity bit |
